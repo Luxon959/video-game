@@ -7,7 +7,7 @@ void displacement_right(){
 }
 void displacement_up(){
 }
-void displacement_donw(){
+void displacement_down(){
 }
 
 int main(){
