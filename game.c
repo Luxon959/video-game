@@ -4,7 +4,7 @@
 void menu{
     if (int a == 1)
         start_game();
-    if (q == 1) 
+    if (int q == 1) 
         quit_game();
 
 }
