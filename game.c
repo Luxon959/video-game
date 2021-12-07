@@ -1,13 +1,26 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void displacement_left{
+void menu{
+    if (int a == 1)
+        start_game();
+    if (q == 1) 
+        quit_game();
+
 }
-void displacement_right{
+void start_game(){
 }
-void displacement_up{
+void quit_game(){
 }
-void displacement_donw{
+void displacement_left(){
+}
+void displacement_right(){
+}
+void displacement_up(){
+}
+void displacement_donw(){
+}
+void animation_shoot(){
 }
 
 int main(){
