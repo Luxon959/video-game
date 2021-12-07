@@ -12,15 +12,15 @@ void start_game(){
 }
 void quit_game(){
 }
+void animation_shoot(){
+
 void displacement_left(){
 }
 void displacement_right(){
 }
 void displacement_up(){
 }
-void displacement_donw(){
-}
-void animation_shoot(){
+void displacement_down(){
 }
 
 int main(){
